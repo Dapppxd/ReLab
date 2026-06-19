@@ -1,6 +1,6 @@
-# SiPela (Sistem Peminjaman Laboratorium)
+# ReLab (Reservasi Laboratorium)
 
-SiPela adalah aplikasi Android berbasis Kotlin yang dirancang untuk mengelola ketersediaan dan peminjaman ruang laboratorium secara *real-time*. Aplikasi ini menyederhanakan proses peminjaman dengan menghilangkan sistem pengisian formulir manual, digantikan dengan sistem *one-click booking* berdasarkan slot jadwal yang telah ditetapkan oleh Admin.
+ReLab adalah aplikasi Android berbasis Kotlin yang dirancang untuk mengelola ketersediaan dan reservasi ruang laboratorium secara *real-time*. Aplikasi ini menyederhanakan proses peminjaman dengan menghilangkan sistem pengisian formulir manual, digantikan dengan sistem *one-click booking* berdasarkan slot jadwal yang telah ditetapkan oleh Admin.
 
 ## Fitur Utama
 
@@ -12,8 +12,8 @@ Aplikasi ini membagi hak akses ke dalam dua *role* pengguna:
 
 **2. Hak Akses Mahasiswa**
 * **Daftar Ketersediaan Terkini:** Mahasiswa hanya melihat jadwal lab yang berstatus "Tersedia".
-* **One-Click Booking:** Pemesanan lab dilakukan hanya dengan satu klik konfirmasi. Status lab akan otomatis berpindah tangan dan berubah menjadi "Dipesan".
-* **Riwayat Peminjaman:** Mahasiswa dapat melacak daftar lab yang sudah berhasil mereka *booking* di tab khusus.
+* **One-Click Booking:** Reservasi lab dilakukan hanya dengan satu klik konfirmasi. Status lab akan otomatis berpindah tangan dan berubah menjadi "Dipesan".
+* **Riwayat Peminjaman:** Mahasiswa dapat melacak daftar lab yang sudah berhasil direservasi pada tab khusus.
 
 ## Stack Teknologi
 * **Bahasa Pemrograman:** Kotlin
@@ -30,7 +30,7 @@ Aplikasi ini membagi hak akses ke dalam dua *role* pengguna:
 
 ## Tentang Proyek
 
-SiPela dikembangkan sebagai proyek kolaborasi untuk mendigitalisasi sistem peminjaman laboratorium di lingkungan kampus. Proyek ini bertujuan untuk menyelesaikan masalah bentrok jadwal dengan mengubah sistem *booking* manual berbasis formulir menjadi sistem *one-click reservasi* yang efisien. 
+ReLab dikembangkan sebagai proyek kolaborasi untuk mendigitalisasi sistem reservasi laboratorium di lingkungan kampus. Proyek ini bertujuan untuk menyelesaikan masalah bentrok jadwal dengan mengubah sistem booking manual berbasis formulir menjadi sistem one-click reservasi yang efisien.
 
 **Dikembangkan oleh Tim:**
 * Daffa Afnandra Wahyuwono Pratama
