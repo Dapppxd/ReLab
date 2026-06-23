@@ -10,6 +10,7 @@
         android:id="@+id/layoutHeader"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
         android:layout_marginBottom="24dp">
 
         <LinearLayout
@@ -23,7 +24,7 @@
                 android:layout_height="wrap_content"
                 android:text="Halo, User!"
                 android:textColor="@color/main_color"
-                android:textSize="32sp"
+                android:textSize="25sp"
                 android:textStyle="bold" />
 
             <TextView
